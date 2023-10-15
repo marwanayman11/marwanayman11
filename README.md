@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Marwan Ayman
-- 🌱 I’m currently learning Mobile Application Development
-- 💞️ I’m looking for Junior Mobile Application Developer position
+- 💞️ I’m Mobile Developer at Digital Skynet Corp.
 - 📫 How to reach me https://www.linkedin.com/in/marwan-ayman11/
 
 <!---
